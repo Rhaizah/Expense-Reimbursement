@@ -1,5 +1,8 @@
 package dk.code.main;
 
+import dk.code.expense.State;
+import dk.code.expense.Status;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -7,6 +10,8 @@ public class Main {
 	System.out.println("Hello World!");	
 		
 	System.out.println("Hello World 2!");
+	
+	
 	}
 
 }
